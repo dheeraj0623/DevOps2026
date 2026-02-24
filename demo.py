@@ -1,0 +1,4 @@
+print('"Welcome"')
+print("'Welcome'")
+print("\"Welcome\"")
+print('\'Welcome\'')
